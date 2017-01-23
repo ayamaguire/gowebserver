@@ -1,6 +1,6 @@
 # gowebserver
 Little webserver in Go by Aya Maguire
-Usage: Put webserv.go in its own folder in your src folder
+Usage: Put webserv.go in its own folder in your src folder. 
 Run it with "go run webserv.go "
 
 It will listen on port 8080. Send a post request like:
