@@ -1,5 +1,5 @@
 # gowebserver
-Little webserver in Go by Aya Maguire
+Little webserver in Go by Aya Maguire.
 Usage: Put webserv.go in its own folder in your src folder. 
 Run it with "go run webserv.go "
 
